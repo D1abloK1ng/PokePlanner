@@ -5,6 +5,7 @@ html {
     background-image: url(images/PokePlanner_Background.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
+    color: white;
 }
 .AltBackgroundIMG{
     background-image: url(images/PokePlannerPokeRadarBackground.jpg);
